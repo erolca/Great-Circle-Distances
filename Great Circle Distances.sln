@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Great Circle Distances", "Great Circle Distances.csproj", "{7DC42DEB-6DA1-404D-8169-89F67F974AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC42DEB-6DA1-404D-8169-89F67F974AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC42DEB-6DA1-404D-8169-89F67F974AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC42DEB-6DA1-404D-8169-89F67F974AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC42DEB-6DA1-404D-8169-89F67F974AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A54558A1-AACA-44C8-9A4A-934638B51645}
+	EndGlobalSection
+EndGlobal
